@@ -1,4 +1,4 @@
-### **Welcome to Aspatwar Lab** 
+## **Welcome to Aspatwar Lab** 
 
 ![Bioinformatics & Computational Biology](https://img.shields.io/badge/Bioinformatics-%237732a8.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%231DB954.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)

@@ -43,13 +43,11 @@
 ---
 
 ## 📫 Connect with Me
-[![Google Site](https://sites.google.com/view/ashresearch/home)  
-[![LinkedIn](https://www.linkedin.com/in/ashok-aspatwar-ph-d-993948224)  
+[![Google Sites](https://img.shields.io/badge/Google%20Sites-Visit-blue?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/ashresearch/home)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashok-aspatwar-ph-d-993948224)  
+
 
 📩 **Email:** *ashok.aspatwar@tuni.fi*  
 
 ---
 
-⭐ **Check out my repositories and feel free to contribute!**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AspatwarLb&show_icons=true&theme=radical)

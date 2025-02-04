@@ -1,4 +1,4 @@
-### Hi there! I'm **Aspatwar Lb** 
+### Welcome to Aspatwar Lab** 
 
 ![Bioinformatics & Computational Biology](https://img.shields.io/badge/Bioinformatics-%237732a8.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%231DB954.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -43,10 +43,10 @@
 ---
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-AspatwarLb-%23181717.svg?style=for-the-badge&logo=github)](https://github.com/AspatwarLb)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aspatwarlb)  
+[![Google Site](https://sites.google.com/view/ashresearch/home)  
+[![LinkedIn](https://www.linkedin.com/in/ashok-aspatwar-ph-d-993948224)  
 
-📩 **Email:** *your.email@example.com*  
+📩 **Email:** *ashok.aspatwar@tuni.fi*  
 
 ---
 
